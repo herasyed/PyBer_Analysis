@@ -7,7 +7,7 @@
 
 ## Results
 ### In three of the 5 category columns in this data frame (Total Rides, Total Drivers and Total Fare), Urban cities ranked the highest in these categories, followed by Suburban and then Rural cities. However in the final 2 categories (Average Fare per Ride and Average Fare per Driver), we saw the inverse, with Rural cities ranking the highest and Urban cities the lowest. We can see that the Urban cities have the most number of people driving for Pyber or using their services, resulting in the high revenue number in the Total Fare column. The completion from other ride-sharing services may also push Pyber's rate in Urban cities down, which is why they came in last in the Average Fare per Ride and Average Fare per Driver columns. Rural cities may have fewer options for a ride-sharing service, which is why Pyber can charge more there. However the low number of drivers and customers in Rural cities may be due to the fact that more people own cars in Rural areas as opposed to Urban ones.
-![df_summary.png](Users/herasyed/Desktop/Columbia data/Module 5 - Matplotlib/PyBer_Analysis/analysis/df_summary.png)
+<img width="595" alt="df_summary" src="https://user-images.githubusercontent.com/88937178/133907657-5ef9ecf1-cecc-4ab4-a64b-a08372fa305a.png">
 
 ## Summary
 ### I would recommend the following business recommendations to Pyber to address the disparity	among city types.
